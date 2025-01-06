@@ -1,0 +1,26 @@
+INICIO
+	1. Abrir os olhos;
+	2. Levantar da cama;
+	3. Ir até ao banheiro;
+	4. Pegar a escova
+	5. Pegar pasta de dente
+	6. Colocar a pasta de dente na escova
+	7. Escovar os dentes
+	8. Se a bexiga estiver cheia
+		1. Urinar no sanitário
+	9. Se a bexiga não estiver cheia, retornar ao quarto
+	10. Escolher roupa para trabalho
+	11. Vestir roupa escolhida
+	12. Se estiver com fome
+		1. Ir até a cozinha
+		2. Pegar pão de forma na bancada
+		3. Pegar faca na gaveta
+		4. Cortar o pão
+		5. Pegar a manteiga
+		6. Passar manteiga no pão utilizando a faca
+		7. Guardar manteiga
+		8. Comer o pão
+	13. Se não estiver com fome, pegar mochila
+	14. Sair para o trabalho.
+
+FIM
