@@ -1,8 +1,8 @@
 public class Cliente {
-    String nome;
-    int id;
-    double saldo;
-    String endereco;
+   privete String nome;
+   privete int id;
+   privete double saldo;
+   privete String endereco;
 
     public String getNome() {
         return nome;
